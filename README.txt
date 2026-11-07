@@ -1,1 +1,1 @@
-Upload index.html and entire images folder to the GitHub Pages repository root. Form uses Web3Forms; verify delivery separately. Images are real footage stills. Two HEIC images did not decode as useful construction photos and were excluded.
+Professional photo enhancements: improved contrast, exposure, color and sharpness. 10 existing gallery images plus 3 stills from IMG_7288.mov. Upload index.html and the images folder together. No invented people or construction activity. HEIC sky/tree images excluded.
